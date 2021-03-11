@@ -1,0 +1,14 @@
+.escala-numerica h3 {
+  font-size: 1.2em;
+}
+.escala-numerica h3, p {
+  margin-top: 0;
+}
+
+.escala-numerica {
+  background-color: white;
+}
+
+#txtEscala {
+  padding: 5px;
+}
